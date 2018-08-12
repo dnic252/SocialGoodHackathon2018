@@ -59,6 +59,8 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .shape {
   font-size:14px;
 }
@@ -67,9 +69,17 @@
 .image {
   color:#000000;
 }
+.placeholder {
+}
 .horizontal_line {
 }
 .checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.sticky_1 {
   text-align:left;
 }
 .icon {
