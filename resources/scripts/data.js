@@ -1,0 +1,6 @@
+employee1 = ["Brynlee Methodius",22, 0, 5, 0, 0, 0, 0, 0,"22-NoOver"]
+employee2 = ["Trey Dominique",28, 0, 1, 0, 2, 3, 3, 10,"28-DeadlineLooming"]
+employee3 = ["Dagfinn Björn",35, 1, 5, 10, 10, 10, 10, 10,"YngMom-Overwork"]
+employee4 = ["Ptah Alboin",65, 0, 10, 10, 15, 0, 0, 0,"65 year Passed Deadline"]
+employee5 = ["Nomusa Ioubal",35, 0, 1, 0, 2, 3, 3, 10,"35_Single-DeadlineComplete"]
+employee6 = ["Amélia Markus",50, 1, 5, 0, 0, 0, 0, 0,"OlderMom Goes home ontime everyday"]
